@@ -1,2 +1,2 @@
 # python_learning
-application of python classes
+application of python knowledge
